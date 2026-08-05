@@ -29,7 +29,7 @@ const achievements = [
     title: "Active Contributor to GitHub Projects",
     description:
       "Regular contributor to open-source repositories with focus on frontend, AI, and full-stack development",
-    link: "https://github.com/Manvith-kumar16", // 🔗 GitHub profile
+    link: "https://github.com/samith-s-palan", // 🔗 GitHub profile
   },
 ];
 

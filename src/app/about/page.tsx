@@ -42,8 +42,8 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "manvithkumar.u@gmail",
-    href: "mailto:manvithkumar.u@gmail.com",
+    content: "samithspalan@gmail",
+    href: "mailto:samithspalan@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
@@ -54,14 +54,14 @@ const CONTACT_LINKS = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/manvith-kumar16/",
-    content: "/manvith-kumar16",
+    href: "https://www.linkedin.com/in/samith-s-palan/",
+    content: "/samith-s-palan",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/manvith-kumar16",
-    content: "/manvith-kumar16",
+    href: "https://github.com/samith-s-palan",
+    content: "/samith-s-palan",
     icon: <FaGithub height={"50px"} />,
   },
 ];
@@ -250,7 +250,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">Manvith Kumar Ullal</p>
+                <p className="text-center text-xl">Samith S Palan</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Computer Science (AI&ML) Engineer
                 </div>
@@ -286,7 +286,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I’m Manvith Kumar Ullal, a Computer Science engineering student with hands-on experience in web development, software engineering, and AI-driven projects. I enjoy building responsive applications, designing clean user interfaces, and implementing efficient backend logic through real-world projects.
+              Hey there! I’m Samith S Palan, a Computer Science engineering student with hands-on experience in web development, software engineering, and AI-driven projects. I enjoy building responsive applications, designing clean user interfaces, and implementing efficient backend logic through real-world projects.
 
 With strong problem-solving abilities, effective communication skills, and a collaborative mindset, I strive to continuously improve my technical expertise and deliver reliable, well-structured solutions.
             </p>
