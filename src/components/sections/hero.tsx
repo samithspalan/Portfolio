@@ -21,7 +21,6 @@ const ROLES = [
   "AI & ML Engineer",
   "React Native Developer",
   "Open Source Contributor",
-  "Researcher",
 ];
 
 const TECH_STACK = [
@@ -30,10 +29,8 @@ const TECH_STACK = [
 ];
 
 const STATS = [
-  { value: "3", label: "Internships", icon: <Briefcase size={16} className="text-blue-400" /> },
   { value: "600+", label: "GitHub Contributions", icon: <SiGithub size={16} className="text-slate-200" /> },
   { value: "40+", label: "GitLab Issues", icon: <SiGitlab size={16} className="text-orange-500" /> },
-  { value: "2", label: "Research Papers", icon: <FileText size={16} className="text-emerald-400" /> },
 ];
 
 function TypingRole() {
@@ -134,7 +131,7 @@ const HeroSection = () => {
               {/* Short Bio */}
               <BlurIn delay={1.3}>
                 <p className="text-sm text-slate-400 dark:text-zinc-400 max-w-sm leading-relaxed ml-0.5 mb-5">
-                  Building AI-powered mobile apps, scalable web platforms, and intelligent automation systems. Passionate about turning research into real-world products.
+                  Building AI-powered mobile apps, scalable web platforms, and intelligent automation systems. Passionate about turning ideas into real-world products.
                 </p>
               </BlurIn>
 
@@ -144,7 +141,7 @@ const HeroSection = () => {
               <div className="flex flex-col gap-3 ml-0.5 w-full max-w-xs">
                 <div className="flex gap-3">
                   <BoxReveal delay={1.8} width="fit-content">
-                    <Link href="/Manvith_Resume.pdf" target="_blank">
+                    <Link href="/Samith_S_Palan_Resume.pdf" target="_blank">
                       <Button className="flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white transition-all duration-200 hover:shadow-[0_0_16px_rgba(59,130,246,0.5)]">
                         <File size={16} />
                         Resume
