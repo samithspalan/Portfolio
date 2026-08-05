@@ -814,7 +814,7 @@ const projects: Project[] = [
   ],
 
   live: "", // Add deployment URL
-  github: "https://github.com/Manvith-kumar16/CodeForge-AI.git",
+  github: "https://github.com/samith-s-palan/CodeForge-AI.git",
 
   skills: {
     frontend: [
@@ -897,7 +897,7 @@ const projects: Project[] = [
   ],
 
   live: "", // Add deployment URL
-  github: "https://github.com/Manvith-kumar16/RetailMind-AI.git",
+  github: "https://github.com/samith-s-palan/RetailMind-AI.git",
 
   skills: {
     frontend: [
@@ -981,7 +981,7 @@ const projects: Project[] = [
   ],
 
   live: "", // Add deployment URL
-  github: "https://github.com/Manvith-kumar16/FedCare-AI.git",
+  github: "https://github.com/samith-s-palan/FedCare-AI.git",
 
   skills: {
     frontend: [
@@ -1051,7 +1051,7 @@ const projects: Project[] = [
     screenshots: ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png"],
 
     live: "https://mlcode.vercel.app/", // update if different
-    github: "https://github.com/Manvith-kumar16/MLCode.git",
+    github: "https://github.com/samith-s-palan/MLCode.git",
 
     skills: {
       frontend: [
@@ -1115,7 +1115,7 @@ const projects: Project[] = [
     src: "/assets/projects-screenshots/learnwise/1.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"],
     live: "https://learnwise-xi.vercel.app/",
-    github: "https://github.com/Manvith-kumar16/Learnwise.git",
+    github: "https://github.com/samith-s-palan/Learnwise.git",
 
     skills: {
       frontend: [
@@ -1197,7 +1197,7 @@ const projects: Project[] = [
       ],
     },
     live: "https://tulukalpuga.vercel.app/", // update if needed
-    github: "https://github.com/Manvith-kumar16/Tulu-Kalpuga.git",
+    github: "https://github.com/samith-s-palan/Tulu-Kalpuga.git",
 
     get content() {
       return (
@@ -1323,8 +1323,8 @@ const projects: Project[] = [
     title: "Flappy Bird (Unity Game)",
     src: "/assets/projects-screenshots/flappybird/1.jpg",
     screenshots: ["1.jpg", "2.jpg", "3.jpg"],
-    live: "https://github.com/Manvith-kumar16/Flappy-Bird", // update if needed
-    github: "https://github.com/Manvith-kumar16/Flappy-Bird",
+    live: "https://github.com/samith-s-palan/Flappy-Bird", // update if needed
+    github: "https://github.com/samith-s-palan/Flappy-Bird",
 
     skills: {
       frontend: [],
@@ -1368,8 +1368,8 @@ const projects: Project[] = [
     title: "FoodWallah - Food Ordering Web Application",
     src: "/assets/projects-screenshots/food-ordering/2.png",
     screenshots: ["1.png", "2.png", "3.png", "4.png"],
-    live: "https://github.com/Manvith-kumar16/FoodWallah", // optional (or GitHub Pages)
-    github: "https://github.com/Manvith-kumar16/FoodWallah",
+    live: "https://github.com/samith-s-palan/FoodWallah", // optional (or GitHub Pages)
+    github: "https://github.com/samith-s-palan/FoodWallah",
 
     skills: {
       frontend: [
@@ -1411,8 +1411,8 @@ const projects: Project[] = [
     title: "Mobile Brand Detector",
     src: "/assets/projects-screenshots/mobilebranddetector/1.png",
     screenshots: ["1.png"],
-    live: "https://github.com/Manvith-kumar16/Mobile-Brand-Detector", // update if needed
-    github: "https://github.com/Manvith-kumar16/Mobile-Brand-Detector",
+    live: "https://github.com/samith-s-palan/Mobile-Brand-Detector", // update if needed
+    github: "https://github.com/samith-s-palan/Mobile-Brand-Detector",
 
     skills: {
       frontend: [
@@ -1460,8 +1460,8 @@ const projects: Project[] = [
     title: "Amazon.com Clone",
     src: "/assets/projects-screenshots/amazonclone/1.png",
     screenshots: ["1.png", "2.png", "3.png"],
-    live: "https://github.com/Manvith-kumar16/Amazon-Clone", // update if deployed
-    github: "https://github.com/Manvith-kumar16/Amazon-Clone",
+    live: "https://github.com/samith-s-palan/Amazon-Clone", // update if deployed
+    github: "https://github.com/samith-s-palan/Amazon-Clone",
 
     skills: {
       frontend: [
