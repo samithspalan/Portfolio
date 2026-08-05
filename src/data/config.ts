@@ -1,16 +1,16 @@
 const config = {
-  title: "Manvith Kumar Ullal | AI Enthusiast",
+  title: "Samith S Palan | AI Enthusiast",
   description: {
-    long: "Explore the portfolio of Manvith Kumar Ullal, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
+    long: "Explore the portfolio of Samith S Palan, a Computer Science Engineer with 1.5 year experience in Devlopment, DevOps & Database management with hands-on experience in deploying & automating workflows, & collaborating with foreign clients. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering results.",
     short:
-      "Discover the portfolio of Manvith Kumar Ullal, a AI enthusiast solving real life problems in DevOps and Development.",
+      "Discover the portfolio of Samith S Palan, a AI enthusiast solving real life problems in DevOps and Development.",
   },
   keywords: [
-    "Manvith",
-    "Manvith Kumar Ullal",
-    "manvithkumarullal",
-    "manvithkumarullal.com",
-    "Manvith Kumar Ullal portfolio",
+    "Samith",
+    "Samith S Palan",
+    "samithspalan",
+    "samithspalan.com",
+    "Samith S Palan portfolio",
     "portfolio",
     "DevOps",
     "Devlopment",
@@ -30,17 +30,17 @@ const config = {
     "AIOps",
     "Azure",
   ],
-  author: "Manvith Kumar Ullal",
-  email: "manvithkumar.u@gmail.com",
-  site: "https://manvithkumarullal.com",
+  author: "Samith S Palan",
+  email: "samithspalan@gmail.com",
+  site: "https://samithspalan.com",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    linkedin: "https://www.linkedin.com/in/manvith-kumar16/",
-    instagram: "https://www.instagram.com/manvith__kumar_/",
-    github: "https://github.com/manvith-kumar16/",
+    linkedin: "https://www.linkedin.com/in/samith-s-palan/",
+    instagram: "https://www.instagram.com/samith_s_palan/",
+    github: "https://github.com/samith-s-palan/",
   },
 
 };
